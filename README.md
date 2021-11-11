@@ -7,4 +7,4 @@ Website Goal: potray my skillset in one single webpage
 
 Website uploaded in server: netlify
 
-Link: rohith-personal-blog.netlify.app
+Link: https://rohith-personal-blog.netlify.app/
