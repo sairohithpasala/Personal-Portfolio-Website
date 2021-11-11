@@ -1,10 +1,15 @@
 # Personal-Portfolio-Website
 
 
-This Website is designed using HTML5,CSS,JavaScript and Bootstrap
+This website is made using html, css and javascript (also some parallax effects) to potray my abilities and skills
 
 Website Goal: potray my skillset in one single webpage
 
-Website uploaded in server: netlify
 
-Link: https://rohith-personal-blog.netlify.app/
+
+ 
+ 
+ 
+ ## I have hosted the website on netlify:
+ https://rohith-personal-blog.netlify.app/
+
